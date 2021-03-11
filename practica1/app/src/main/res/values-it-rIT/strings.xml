@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="insert_another_number">otro numero babini</string>
+    <string name="insert_a_number">un numero bambini</string>
+    <string name="plus">suma</string>
+</resources>
